@@ -72,8 +72,8 @@ const Footer = () => {
             <div className="space-y-4">
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-yellow-400" />
-                <a href="tel:8851590086" className="text-gray-300 hover:text-yellow-400 transition-colors duration-200">
-                  8851590086
+                <a href="tel:8130476851" className="text-gray-300 hover:text-yellow-400 transition-colors duration-200">
+                  8130476851
                 </a>
               </div>
               <div className="flex items-center space-x-3">
@@ -109,7 +109,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm">
-              © {currentYear} Spark Edge Electrical. All rights reserved.
+              © {currentYear} SparkEdge Electrical. All rights reserved.
             </p>
             <div className="flex items-center space-x-6 text-sm">
               <a href="#" className="text-gray-400 hover:text-white transition-colors duration-200">
