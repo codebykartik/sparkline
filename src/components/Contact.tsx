@@ -93,7 +93,7 @@ const Contact = () => {
 
             {/* Why Choose Us */}
             <div className="bg-gray-800 rounded-2xl p-6 mt-8">
-              <h4 className="text-white font-bold text-xl mb-4">Why Choose Spark Edge Electrical?</h4>
+              <h4 className="text-white font-bold text-xl mb-4">Why Choose SparkEdge Electrical?</h4>
               <div className="space-y-3">
                 {[
                   { icon: Zap, text: 'Licensed & Certified Professionals' },
